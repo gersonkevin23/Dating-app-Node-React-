@@ -51,7 +51,3 @@ Matcha is a dating app with the following features:
 * 🗄 Designing the database on dbdiagram.io
 [![Database-diagram](https://iili.io/JfcVO7.png)](https://freeimage.host/i/capture-decran-2020-03-30-121118.JfcVO7)
 * 🎨 Designing simple wireframes on Figma : [The Wireframes](https://www.figma.com/file/daD5AHhiB3XmfUPdi4PhsS/Matcha?node-id=0%3A1)
-
-## Credits
-
-👨🏻‍💻👩🏻‍💻Built and designed by [@yann120](https://github.com/yann120) & [@Segolene-Alquier](https://github.com/Segolene-Alquier/)
